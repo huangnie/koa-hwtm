@@ -1,5 +1,5 @@
 {
-  "name": "kfsys",
+  "name": "koa-hwtm",
   "version": "0.0.1",
   "private": true,
   "main": "app.js",
